@@ -1,7 +1,7 @@
-export default function CustomerPage() {
-    return (
+export default function CustomerPage () {
+  return (
         <div>
             Customer Page
         </div>
-    )
+  )
 }
