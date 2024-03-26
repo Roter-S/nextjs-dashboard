@@ -1,4 +1,4 @@
-# Curso de Construcción de Dashboard con Next.js, TypeScript, y PostgreSQL
+# Construcción de Dashboard con Next.js, TypeScript, y PostgreSQL
 
 ## Descripción
 Este curso está diseñado para desarrolladores intermedios que buscan ampliar sus habilidades en el desarrollo de aplicaciones web modernas utilizando Next.js, TypeScript, y PostgreSQL. Aprenderás a construir un dashboard interactivo desde cero, que incluirá funcionalidades de CRUD para gestionar clientes y facturas, así como la integración de gráficos dinámicos para visualizar datos. Este proyecto se alojará en Vercel, proporcionando una experiencia de desarrollo y despliegue fluida.
